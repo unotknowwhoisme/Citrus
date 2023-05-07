@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "unotknowwhoisme/framework": "^0.0.1"
+        "unotknowwhoisme/framework": "^0.0.2"
     },
     "autoload": {
         "psr-4": {
