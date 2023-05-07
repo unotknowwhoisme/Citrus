@@ -1,0 +1,20 @@
+{
+    "name": "unotknowwhoisme/citrus",
+    "description": "Citrus Application",
+	"keywords": ["framework"],
+	"license": "MIT",
+	"authors": [
+        {
+            "name": "Alex Fedoreev",
+            "email": "hash2k@vk.com"
+        }
+    ],
+    "require": {
+        "unotknowwhoisme/framework": "^0.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
