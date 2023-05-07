@@ -8,6 +8,6 @@ require('../vendor/autoload.php');
 
 Application::install();
 
-
+require(APP_DIR . '/bootstrap.php');
 
 Application::run();
